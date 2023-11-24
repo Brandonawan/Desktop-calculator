@@ -1,0 +1,20 @@
+[Desktop Entry]
+
+# The type of the thing this desktop file refers to (e.g. can be Link)
+Type=Application
+
+# The application name.
+Name=calculator By Brandon
+
+# Tooltip comment to show in menus.
+Comment=A simple Calculator application.
+
+# The path (folder) in which the executable is run
+Path=/opt/calculator
+
+# The executable (can include arguments)
+Exec=/opt/calculator/calculator
+
+# The icon for the entry, using the name from `hicolor/scalable` without the extension.
+# You can also use a full path to a file in /opt.
+Icon=calculator
